@@ -1,11 +1,11 @@
-3621
+3627
 40D:\miki\jirengu\nav-1\node_modules\debug132747685312094562 1
 48D:\miki\jirengu\nav-1\node_modules\object-assign132747685335729845 1
 58D:\miki\jirengu\nav-1\node_modules\@parcel\package-manager132747685391807590 1
 62D:\miki\jirengu\nav-1\node_modules\strip-json-comments\license132747685287320000 0
 69D:\miki\jirengu\nav-1\node_modules\@parcel\utils\lib\openInBrowser.js132727754370030000 0
 46D:\miki\jirengu\nav-1\node_modules\union-value132747685342931164 1
-27D:\miki\jirengu\nav-1\.idea132755494690715624 1
+27D:\miki\jirengu\nav-1\.idea132755491658237471 1
 68D:\miki\jirengu\nav-1\node_modules\highlight.js\lib\languages\css.js132727754668950000 0
 47D:\miki\jirengu\nav-1\node_modules\array-unique132747685308187457 1
 52D:\miki\jirengu\nav-1\node_modules\is-url\History.md132727754428460000 0
@@ -20,7 +20,7 @@
 44D:\miki\jirengu\nav-1\node_modules\urix\test132747685375321687 1
 84D:\miki\jirengu\nav-1\node_modules\@parcel\fs-write-stream-atomic\test\slow-close.js132727754375840000 0
 32D:\miki\jirengu\nav-1\src\images132747684974758544 1
-26D:\miki\jirengu\nav-1\dist132755497336713664 1
+26D:\miki\jirengu\nav-1\dist132755455411577994 1
 82D:\miki\jirengu\nav-1\node_modules\lmdb-store\prebuilds\darwin-x64\node.abi83.node132747685288840000 0
 81D:\miki\jirengu\nav-1\node_modules\lmdb-store\node_modules\mkdirp\lib\path-arg.js132727754451440000 0
 63D:\miki\jirengu\nav-1\node_modules\source-map-resolve\readme.md132727754593030000 0
@@ -60,7 +60,7 @@
 85D:\miki\jirengu\nav-1\node_modules\regex-not\node_modules\extend-shallow\package.json132727754457850000 0
 53D:\miki\jirengu\nav-1\node_modules\simple-get\LICENSE132747685288820000 0
 50D:\miki\jirengu\nav-1\node_modules\xxhash-wasm\esm132747685375650803 1
-36D:\miki\jirengu\nav-1\src\.gitignore132755494687039121 0
+36D:\miki\jirengu\nav-1\src\.gitignore132755442793680772 0
 84D:\miki\jirengu\nav-1\node_modules\regex-not\node_modules\is-extendable\package.json132727754571950000 0
 53D:\miki\jirengu\nav-1\node_modules\safe-regex\LICENSE132727754582270000 0
 60D:\miki\jirengu\nav-1\node_modules\sharp\install\dll-copy.js132747685277430000 0
@@ -70,7 +70,7 @@
 55D:\miki\jirengu\nav-1\node_modules\lmdb-store\README.md132747685288840000 0
 62D:\miki\jirengu\nav-1\node_modules\@parcel\utils\lib\config.js132727754370030000 0
 49D:\miki\jirengu\nav-1\node_modules\balanced-match132747685308817420 1
-25D:\miki\jirengu\nav-1\src132755494687049097 1
+25D:\miki\jirengu\nav-1\src132755442793700777 1
 49D:\miki\jirengu\nav-1\node_modules\chownr\LICENSE132747685278160000 0
 56D:\miki\jirengu\nav-1\node_modules\object-visit\index.js132727754846800000 0
 45D:\miki\jirengu\nav-1\node_modules\slice-ansi132747685340043449 1
@@ -183,7 +183,7 @@
 51D:\miki\jirengu\nav-1\node_modules\braces\README.md132727754460860000 0
 39D:\miki\jirengu\nav-1\node_modules\once132747685335839547 1
 61D:\miki\jirengu\nav-1\node_modules\node-forge\flash\README.md132727754428940000 0
-45D:\miki\jirengu\nav-1\dist\index.f0dd341d.css132755496511740213 0
+45D:\miki\jirengu\nav-1\dist\index.f0dd341d.css132755409959042036 0
 47D:\miki\jirengu\nav-1\node_modules\astral-regex132747685308657840 1
 45D:\miki\jirengu\nav-1\node_modules\lmdb-store132747685331840261 1
 51D:\miki\jirengu\nav-1\node_modules\kind-of\index.js132727754682210000 0
@@ -1562,6 +1562,7 @@
 60D:\miki\jirengu\nav-1\node_modules\@parcel\utils\src\glob.js132727754370030000 0
 65D:\miki\jirengu\nav-1\node_modules\process-nextick-args\readme.md132702743421940000 0
 54D:\miki\jirengu\nav-1\node_modules\sharp\lib\output.js132747685277430000 0
+49D:\miki\jirengu\nav-1\dist\index.5952072d.css.map132755455411558068 0
 54D:\miki\jirengu\nav-1\node_modules\path-type\readme.md132727754679870000 0
 59D:\miki\jirengu\nav-1\node_modules\repeat-element\README.md132727754579250000 0
 56D:\miki\jirengu\nav-1\node_modules\sharp\lib\platform.js132747685277430000 0
@@ -2246,6 +2247,7 @@
 59D:\miki\jirengu\nav-1\node_modules\lmdb-store\dict\dict.txt132747685288840000 0
 65D:\miki\jirengu\nav-1\node_modules\@parcel\watcher\src\Backend.hh132727754378870000 0
 60D:\miki\jirengu\nav-1\node_modules\lmdb-store\dict\dict2.txt132747685288840000 0
+45D:\miki\jirengu\nav-1\dist\index.5952072d.css132755455411478278 0
 63D:\miki\jirengu\nav-1\node_modules\lmdb-store\dependencies\lmdb132747685307050500 1
 65D:\miki\jirengu\nav-1\node_modules\@nodelib\fs.stat\out\providers132747685378343599 1
 50D:\miki\jirengu\nav-1\node_modules\is-wsl\index.js132727754548250000 0
@@ -3043,7 +3045,7 @@
 52D:\miki\jirengu\nav-1\node_modules\debug\.travis.yml132702743441900000 0
 64D:\miki\jirengu\nav-1\node_modules\@nodelib\fs.stat\out\adapters132747685377974597 1
 54D:\miki\jirengu\nav-1\node_modules\debug\karma.conf.js132702743441900000 0
-41D:\miki\jirengu\nav-1\.idea\workspace.xml132755494690715624 0
+41D:\miki\jirengu\nav-1\.idea\workspace.xml132755491658227496 0
 49D:\miki\jirengu\nav-1\node_modules\debug\Makefile132702743441900000 0
 48D:\miki\jirengu\nav-1\node_modules\debug\node.js132702743441900000 0
 50D:\miki\jirengu\nav-1\node_modules\debug\README.md132702743441900000 0
@@ -3394,6 +3396,7 @@
 83D:\miki\jirengu\nav-1\node_modules\@parcel\source-map\node_modules\.bin\detect-libc132747685392036987 0
 76D:\miki\jirengu\nav-1\node_modules\@parcel\utils\node_modules\.bin\json5.cmd132747685392246426 0
 60D:\miki\jirengu\nav-1\node_modules\@parcel\utils\lib\blob.js132727754370030000 0
+48D:\miki\jirengu\nav-1\dist\index.51ac74d4.js.map132755455411568053 0
 66D:\miki\jirengu\nav-1\node_modules\@parcel\utils\lib\bundle-url.js132727754370030000 0
 64D:\miki\jirengu\nav-1\node_modules\@parcel\utils\lib\debounce.js132727754370030000 0
 66D:\miki\jirengu\nav-1\node_modules\@parcel\utils\lib\DefaultMap.js132727754370030000 0
@@ -3610,12 +3613,15 @@
 59D:\miki\jirengu\nav-1\node_modules\.bin\node-gyp-build-test132747685394640014 0
 60D:\miki\jirengu\nav-1\node_modules\.bin\prebuild-install.cmd132747685394699856 0
 50D:\miki\jirengu\nav-1\node_modules\.bin\semver.cmd132747685394859426 0
-44D:\miki\jirengu\nav-1\dist\index.46f7bd06.js132755496511750183 0
-48D:\miki\jirengu\nav-1\dist\index.46f7bd06.js.map132755496511800054 0
-44D:\miki\jirengu\nav-1\dist\index.621a45cc.js132755496511750183 0
-48D:\miki\jirengu\nav-1\dist\index.621a45cc.js.map132755496511800054 0
-49D:\miki\jirengu\nav-1\dist\index.f0dd341d.css.map132755496511790213 0
-37D:\miki\jirengu\nav-1\dist\index.html132755497336703699 0
+44D:\miki\jirengu\nav-1\dist\index.46f7bd06.js132755409959061878 0
+48D:\miki\jirengu\nav-1\dist\index.46f7bd06.js.map132755409959111761 0
+44D:\miki\jirengu\nav-1\dist\index.51ac74d4.js132755455411478278 0
+44D:\miki\jirengu\nav-1\dist\index.621a45cc.js132755409959061878 0
+48D:\miki\jirengu\nav-1\dist\index.621a45cc.js.map132755409959121726 0
+49D:\miki\jirengu\nav-1\dist\index.f0dd341d.css.map132755409959101797 0
+44D:\miki\jirengu\nav-1\dist\index.fef1cfaf.js132755455411478278 0
+48D:\miki\jirengu\nav-1\dist\index.fef1cfaf.js.map132755455411538107 0
+37D:\miki\jirengu\nav-1\dist\index.html132755455411478278 0
 38D:\miki\jirengu\nav-1\.idea\.gitignore132750251596112836 0
 39D:\miki\jirengu\nav-1\.idea\modules.xml132750251545933946 0
 39D:\miki\jirengu\nav-1\.idea\vagrant.xml132755409062749380 0
